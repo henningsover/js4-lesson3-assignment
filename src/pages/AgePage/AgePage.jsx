@@ -1,11 +1,9 @@
 import React from 'react';
 
-function App() {
+export default function AgePage() {
   return (
     <div>
-      <h1>Hallå</h1>
+      <h1>Age</h1>
     </div>
   );
 }
-
-export default App;

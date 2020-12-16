@@ -1,11 +1,9 @@
 import React from 'react';
 
-function App() {
+export default function StartPage() {
   return (
     <div>
-      <h1>Hallå</h1>
+      <h1>StartPage</h1>
     </div>
   );
 }
-
-export default App;
